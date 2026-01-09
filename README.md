@@ -1,6 +1,6 @@
 # Getting Started with React ListBox Component
 
-Quickly get started with the Syncfusion React ListBox Component. This project contains a few of the control’s basic features, like binding data and selecting items.
+A quick start React project that shows how to add the Syncfusion React ListBox Component. This project also includes a code snippet to features, like binding data and selecting items in React ListBox Component.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/list-box/getting-started/
 
